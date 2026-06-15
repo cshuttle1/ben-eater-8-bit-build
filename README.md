@@ -35,31 +35,6 @@ and selector switch allow toggling between automatic and manual clock modes.
 
 ---
 
-### ALU
-**Status:** 🔲 Not started
-
----
-
-### RAM & MAR
-**Status:** 🔲 Not started
-
----
-
-### Program Counter
-**Status:** 🔲 Not started
-
----
-
-### Output Register & Display
-**Status:** 🔲 Not started
-
----
-
-### Control Logic
-**Status:** 🔲 Not started
-
----
-
 ## Hardware
 
 - Logic family: 74LS series
