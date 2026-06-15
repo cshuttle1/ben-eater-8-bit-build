@@ -28,26 +28,32 @@ The clock module uses a 555 timer in astable mode to generate a continuous squar
 and a second 555 in monostable mode for single-step debugging. A debounced pushbutton
 and selector switch allow toggling between automatic and manual clock modes.
 
+---
 
 ### A & B Registers
 **Status:** In progres 🚧
 
+---
 
 ### ALU
 **Status:** 🔲 Not started
 
+---
 
 ### RAM & MAR
 **Status:** 🔲 Not started
 
+---
 
 ### Program Counter
 **Status:** 🔲 Not started
 
+---
 
 ### Output Register & Display
 **Status:** 🔲 Not started
 
+---
 
 ### Control Logic
 **Status:** 🔲 Not started
