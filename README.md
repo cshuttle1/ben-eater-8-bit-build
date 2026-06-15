@@ -31,6 +31,21 @@ and selector switch allow toggling between automatic and manual clock modes.
 ### A & B Registers
 **Status:** In progres 🚧
 
+### ALU
+**Status:** 🔲 Not started
+
+### RAM & MAR
+**Status:** 🔲 Not started
+
+### Program Counter
+**Status:** 🔲 Not started
+
+### Output Register & Display
+**Status:** 🔲 Not started
+
+### Control Logic
+**Status:** 🔲 Not started
+
 ---
 
 ## Hardware
